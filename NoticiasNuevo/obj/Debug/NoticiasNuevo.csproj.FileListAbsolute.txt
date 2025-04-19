@@ -1,0 +1,7 @@
+C:\Users\froyl\Desktop\test\NoticiasNuevo\NoticiasNuevo\obj\Debug\NoticiasNuevo.csproj.AssemblyReference.cache
+C:\Users\froyl\Desktop\test\NoticiasNuevo\NoticiasNuevo\obj\Debug\NoticiasNuevo.csproj.CoreCompileInputs.cache
+C:\Users\froyl\Desktop\test\NoticiasNuevo\NoticiasNuevo\bin\Debug\NoticiasNuevo.exe.config
+C:\Users\froyl\Desktop\test\NoticiasNuevo\NoticiasNuevo\bin\Debug\NoticiasNuevo.exe
+C:\Users\froyl\Desktop\test\NoticiasNuevo\NoticiasNuevo\bin\Debug\NoticiasNuevo.pdb
+C:\Users\froyl\Desktop\test\NoticiasNuevo\NoticiasNuevo\obj\Debug\NoticiasNuevo.exe
+C:\Users\froyl\Desktop\test\NoticiasNuevo\NoticiasNuevo\obj\Debug\NoticiasNuevo.pdb
